@@ -10,6 +10,9 @@ namespace Lab_1
     {
         static void Main(string[] args)
         {
+            SortetContainer sort = new SortetContainer();
+            sort.BubbleSort();
+
         }
     }
 }
