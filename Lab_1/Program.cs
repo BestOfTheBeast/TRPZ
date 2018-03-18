@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace Lab_1
 {
-    class Program
+   public class Program
     {
         static void Main(string[] args)
         {
+            SortetContainer sort = new SortetContainer();
+            sort.SelectionSort();
         }
     }
 }
