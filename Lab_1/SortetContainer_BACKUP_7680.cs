@@ -8,6 +8,7 @@ namespace Lab_1
 {
     public class SortetContainer
     {
+<<<<<<< HEAD
         public static int[] SortArray(int[] array)
         {
             int min, x, y = 0;
@@ -29,7 +30,7 @@ namespace Lab_1
                 array[x] = y;
             }
             return array;
-        }
+=======
         public static int[] ShakerSort(int[] arr)
         {
             int temp;
@@ -59,6 +60,7 @@ namespace Lab_1
                 left++;
             } while (left < right);
             return arr;
+>>>>>>> master
         }
     }
 }
