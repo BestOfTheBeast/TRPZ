@@ -10,11 +10,6 @@ namespace Lab_1
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-
-=======
-          
->>>>>>> master
         }
     }
 }
